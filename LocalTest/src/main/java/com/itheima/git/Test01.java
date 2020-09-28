@@ -13,4 +13,8 @@ public class Test01 {
         System.out.println("Hello");
         System.out.println("Hello");
     }
+    public void test(){
+        int i=10;
+        System.out.println(i);
+    }
 }
